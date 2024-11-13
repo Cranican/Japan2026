@@ -1,4 +1,4 @@
-In dit document staat wat ik tot nu toe heb
+In dit document staat wat ik tot nu toe heb opgezocht over vliegtickets. Dit zijn dan de kosten en waar het vliegtuig naar toe gaat. Later zal ik ook toevoegen waar tussenstops zijn.
 #### **Vliegtickets (retour, p.p.)**
 - 6 pers, Fukuoka ~€1.430,-
 - 9 pers, Fukuoka ~€1.430,-
