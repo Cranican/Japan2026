@@ -7,8 +7,8 @@ Mijn idee was om in het najaar van 2026 twee weekjes naar Japan te gaan. Ik ben 
 Dit document gaat groter zijn dan het originele bericht in Discord. De grootste reden hiervoor is omdat ik tegen de discord character limit aan zit :P. Ik ga even hoofdstukjes maken met verschillende dingen. Zo kunnen we veel uitgebreider alles uitzoeken voor bijvoorbeeld vliegtickets, verblijf, activiteiten, eten, enz. Daarnaast ga ik ook wat vertellen over bepaalde manieren/gebruiken waarvan ik weet dat ze in Japan blij van worden. Als laatste wil ik graag dat er ook het minimale van Japans wordt geleerd, zodat er bijvoorbeeld in noodgevallen om hulp gevraagd kan worden. Dit kunnen jullie natuurlijk ook verder lezen in het document.
 
 ##### Info over de reis en verwachtingen
-- [[Activiteiten]]
-- [[Japans leren]]
-- [[Manieren en gebruiken]]
-- [[Verblijf]]
-- [[Vliegtickets]]
+- [Activiteiten](https://github.com/Cranican/Japan2026/blob/master/Activiteiten.md)
+- [Japans leren](https://github.com/Cranican/Japan2026/blob/master/Japans%20leren.md)
+- [Manieren en gebruiken](https://github.com/Cranican/Japan2026/blob/master/Manieren%20en%20gebruiken.md)
+- [Verblijf](https://github.com/Cranican/Japan2026/blob/master/Verblijf.md)
+- [Vliegtickets](https://github.com/Cranican/Japan2026/blob/master/Vliegtickets.md)
