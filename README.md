@@ -6,20 +6,14 @@ Mijn idee was om in het najaar van 2026 twee weekjes naar Japan te gaan. Ik ben 
 
 Deze documenten gaan groter zijn dan het originele bericht in Discord. De grootste reden hiervoor is omdat ik tegen de discord character limit aan zit :P. Per bestand bespreek ik een ander onderwerp, de linkjes hiervoor kun je hieronder zien. Zo kunnen we veel uitgebreider alles uitzoeken voor bijvoorbeeld vliegtickets, verblijf, activiteiten, eten, enz. Daarnaast ga ik ook wat vertellen over bepaalde manieren/gebruiken waarvan ik weet dat ze in Japan blij van worden. Als laatste wil ik graag dat er ook het minimale van Japans wordt geleerd, zodat er bijvoorbeeld in noodgevallen om hulp gevraagd kan worden. Dit kunnen jullie natuurlijk ook verder lezen de documenten. Mochten er vragen zijn kunnen jullie bij mij, Aaldert, terecht.
 
-##### Info over de reis en verwachtingen
+### Info over de reis en verwachtingen
 - [Activiteiten](https://github.com/Cranican/Japan2026/blob/master/Activiteiten.md)
 - [Japans leren](https://github.com/Cranican/Japan2026/blob/master/Japans%20leren.md)
 - [Manieren en gebruiken](https://github.com/Cranican/Japan2026/blob/master/Manieren%20en%20gebruiken.md)
 - [Verblijf](https://github.com/Cranican/Japan2026/blob/master/Verblijf.md)
 - [Vliegtickets](https://github.com/Cranican/Japan2026/blob/master/Vliegtickets.md)
 
-##### Linkjes voor Obsidian
-- [[Activiteiten]]
-- [[Japans leren]]
-- [[Manieren en gebruiken]]
-- [[Verblijf]]
-- [[Vliegtickets]]
-##### Info makkelijker leesbaar
+### Info makkelijker leesbaar
 Ik heb dit document geschreven met de app Obsidian, in markdown in plaats van gewoon tekst. Dit maakt het voor mij makkelijker om met linkjes, bestanden en tabellen te werken.
 Als jij dit ook wil dan kan dat. Hiervoor moet je een aantal stappen uitvoeren.
 1. Ga naar [mijn Github repo](https://github.com/Cranican/Japan2026?tab=readme-ov-file), klik op `Code` en dan `Download ZIP`.
@@ -27,3 +21,11 @@ Als jij dit ook wil dan kan dat. Hiervoor moet je een aantal stappen uitvoeren.
 3. Download de [Obsidian app](https://obsidian.md/download).
 4. In de app, klik op `Open` van `Open folder as vault` en selecteer de folder waar je het ZIP-bestand hebt uitgepakt.
 5. Voilà. Je kunt tussen de bestanden navigeren in de balk links, of door op de linkjes te klikken bij [[README#Linkjes voor Obsidian|Linkjes voor Obsidian]].
+**Als er updates zijn in de bestanden moet je de bestanden verwijderen en stap 1 opnieuw doen!**
+
+### Linkjes voor Obsidian
+- [[Activiteiten]]
+- [[Japans leren]]
+- [[Manieren en gebruiken]]
+- [[Verblijf]]
+- [[Vliegtickets]]
