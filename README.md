@@ -6,6 +6,9 @@ Mijn idee was om in het najaar van 2026 twee weekjes naar Japan te gaan. Ik ben 
 
 Deze documenten gaan groter zijn dan het originele bericht in Discord. De grootste reden hiervoor is omdat ik tegen de discord character limit aan zit :P. Per bestand bespreek ik een ander onderwerp, de linkjes hiervoor kun je hieronder zien. Zo kunnen we veel uitgebreider alles uitzoeken voor bijvoorbeeld vliegtickets, verblijf, activiteiten, eten, enz. Daarnaast ga ik ook wat vertellen over bepaalde manieren/gebruiken waarvan ik weet dat ze in Japan blij van worden. Als laatste wil ik graag dat er ook het minimale van Japans wordt geleerd, zodat er bijvoorbeeld in noodgevallen om hulp gevraagd kan worden. Dit kunnen jullie natuurlijk ook verder lezen de documenten. Mochten er vragen zijn kunnen jullie bij mij, Aaldert, terecht.
 
+Dit wordt een dure vakantie, twee weken is langer dan wij normaal doen met een groep vrienden en het is in een land ver weg. Als spaardoel is het daarom handig om met **€3300-3700** rekening te houden. Zelf houd ik €4000 aan om wat ruimte over te houden voor activiteiten.
+Natuurlijk hangt het er volledig van af wat voor activiteiten we gaan doen, waar we eten en in wat voor accomodatie wij gaan zitten. De meeste kosten hiervan gaan naar het vliegen. Het verblijf en eten is relatief goedkoop. Voor nu heb ik een aantal hotels uitgezocht, hier komt meer bij
+met andere vormen van accomodatie.
 ### Info over de reis en verwachtingen
 - [Activiteiten](https://github.com/Cranican/Japan2026/blob/master/Activiteiten.md)
 - [Japans leren](https://github.com/Cranican/Japan2026/blob/master/Japans%20leren.md)

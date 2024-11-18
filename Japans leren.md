@@ -9,6 +9,8 @@ Het is het meest belangrijk voor jullie om de uitspraak en de betekenis te weten
 #### Om te beginnen
 Als eerst is het dus handig om een beetje hiragana te kennen, of op zijn minst de begrijpen hoe Japans uitgesproken wordt en opgeschreven wordt in ons alfabet, rōmaji dus.
 Ik heb hier een website gevonden die [Hiragana](https://a1.marugotoweb.jp/en/hiragana.php) en [Katakana](https://a1.marugotoweb.jp/en/katakana.php) tekens laten zien met een optie om geluid af te spelen. Bij dit geluid worden de karakters uitgesproken.
+
+Aangezien Japans een fonetische taal is, is de uitspraak vrij simpel om te leren. Ik heb hiervoor een [filmpje over uitspraak](https://www.youtube.com/watch?v=4Irzvrcpf4Q&ab_channel=LearnJapanesewithJapanesePod101.com) gevonden. Houdt er rekening mee dat `ō` hetzelfde is als `ou`.
 #### Basis Japans
 | Nederlands        | Kanji | Hiragana / Katakana | Rōmaji       | In een zin      | Zin in rōmaji              | Betekenis                        |
 | :---------------- | :---- | :------------------ | :----------- | --------------- | -------------------------- | -------------------------------- |
